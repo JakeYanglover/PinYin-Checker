@@ -41,7 +41,7 @@
 1. **克隆项目仓库**：
 
 ```bash
-git clone https://github.com/your-repository-url.git
+git clone https://https://github.com/JakeYanglover/PinYin-Checker.git
 ```
 
 2. **准备词典和训练数据**：
