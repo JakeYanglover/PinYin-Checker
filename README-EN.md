@@ -41,7 +41,7 @@ This project is a Pinyin-based spell checker, which corrects user input Pinyin s
 1. **Clone the Repository**:
 
 ```bash
-git clone https://github.com/your-repository-url.git
+git clone https://github.com/JakeYanglover/PinYin-Checker.git
 ```
 
 2. **Prepare the Dictionary and Training Data**:
